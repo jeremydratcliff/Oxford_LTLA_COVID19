@@ -11,3 +11,4 @@ This repository will serve to report and visualize the growth of COVID-19 cases 
 **Data notes**  
 Case totals are missing for the following dates. In these instances, the case number from the previous day was carried forward. The seven day rolling average will smooth these jumps.
 * July 31, August 7, August 8, August 9, August 12, August 14, August 15, August 20, September 19
+Deaths only began to be tracked October 5.
