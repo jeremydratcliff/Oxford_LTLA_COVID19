@@ -1,4 +1,4 @@
-# Oxford_LTA_COVID19
+# Oxford_LTLA_COVID19
 
 In England and the United Kingdom, reporting of COVID-19 cases, deaths, and estimated recoveries is centralized by Public Health England. The data is available at [coronavirus.data.gov.uk](coronavirus.data.gov.uk). The website does not contain historical data for locations lower than the national level. This project is built on manual tracking of case data for the Oxford Lower Tier Legal Authority and visualization using R Markdown and LaTeX.
 
