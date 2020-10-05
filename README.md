@@ -6,4 +6,4 @@ This repository will serve to report and visualize the growth of COVID-19 cases 
 
 **Products**
 * OxfordCases.csv - csv file containing the reported daily cumulative cases for the Oxford LTA. Column 1 is the date, Column 2 is total cases. Each row represents a single date.
-* OxfordCases.html - visualization of the data, built using R Markdown and the ggplot2 package.
+* OxfordCases.pdf - visualization of the data, built using R Markdown and the ggplot2 package.
